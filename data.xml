@@ -1,6 +1,6 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <PurchaseOrder PurchaseOrderNumber="99503" OrderDate="1999-10-20">
-    <Address Type="Shipping">
+    <Address source="Shipping">
         <Name>Ellen Adams</Name>
         <Street>123 Maple Street</Street>
         <City>Mill Valley</City>
